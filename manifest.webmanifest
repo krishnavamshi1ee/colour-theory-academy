@@ -1,0 +1,18 @@
+{
+  "name": "Colour Theory Academy",
+  "short_name": "Colour Academy",
+  "start_url": "./?academy=21",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f3ef",
+  "theme_color": "#171923",
+  "description": "A visual, hands-on colour theory course for painters.",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
